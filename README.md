@@ -105,6 +105,7 @@ Para la base de datos puede escoger un servidor Postgres de propósito general c
 
 Especificaciones.
 ![postgres-machine-details.png](https://raw.githubusercontent.com/c-m-a/despliegue-app-node-python-en-azure/main/img/postgres-machine-details.png)
+
 Costos del servicio de Postgres
 
 ![postgres-machine-costs.png](https://raw.githubusercontent.com/c-m-a/despliegue-app-node-python-en-azure/main/img/postgres-machine-costs.png)
