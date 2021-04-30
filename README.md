@@ -47,17 +47,6 @@ La creación de un **Resource Group**
 az group create --name app-pro-rg --location "East US"
 ```
 
-### Delete Resource
-
-```bash
-az group delete --name app-pro-rg
-```
-
-### Creando Almacenamiento con AZCLI
-
-```bash
-az storage account create --name appStorage --resource-group app-pro-rg --location "East US"
-```
 
 ### Creación de "VM Machine Scale Set" Para Alojar El Código Fuente.
 
