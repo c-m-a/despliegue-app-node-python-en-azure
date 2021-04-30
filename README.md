@@ -125,8 +125,8 @@ Precios en Dolares obtenidos por la pagina **Azure**.
 | Servicio | Cantidad | Costo Uni | Costo Total x Mes |
 |-|:-:|-:|-:|
 |**(Virtual Machine Set) E2ds_v4** Máxima escalabilidad x 2 - Servidor de Aplicación Ubuntu|2|$105.12|$210.24|
-|Servidor de Postgres Simple 500GB SSD, 2CPUs|1|$155.55|$155.55|
-|**Total**|||$365.79|
+|Servidor de Postgres Simple 500GB SSD, 2CPUs|1|$187.85|$187.85|
+|**Total**|||$398.09|
 
 
 ## Optimización De Costos
@@ -144,5 +144,5 @@ La reducción de costos es del 13.3% mensual, lo cual es un valor aceptable, ya 
 |**B2s** Ubuntu Nginx Reverse Proxy Layer 7|1|$30.37|$30.37|
 |**(Virtual Machine Set) E2ds_v4** Maxima escalabilidad x 2 - Servidor de Aplicación Ubuntu|2|$105.12|$105.12|
 |**(Virtual Machine Set) E2ds_v4** Activa|180 horas|$26.28|$26.28|
-|Servidor de Postgres Simple 500GB SSD, 2CPUs|1|$155.55|$155.55|
-|**Total**|||$317.32|
+|Servidor de Postgres Simple 500GB SSD, 2CPUs|1|$187.85|$187.85|
+|**Total**|||$349.62|
